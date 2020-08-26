@@ -39,3 +39,5 @@ The main features include data related to the start and end of a ride. This can 
 ## Key Insights for Presentation
 
 > I focused on my own questions on my mind to answer on presentation as the duration of using the bikes.
+
+The dataset size exceed github limit so I didn't upstream it
